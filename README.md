@@ -2,6 +2,11 @@
 
 # KEF Wireless Speaker Control for LS50WII, LSX II and LS60
 
+## Note
+
+A more complete component already exists for these speakers from the developer of pykefcontrol at https://github.com/N0ciple/hass-kef-connector
+I hadn't seen it existed when this was created, but I suggest using that component instead of this one.
+
 ## Description
 
 A media player component for Home Assistant that controls a KEF Wireless Speaker.
