@@ -1,0 +1,15 @@
+{
+    "domain": "kef_control",
+    "name": "KEF Wireless Speaker Control",
+    "codeowners": [],
+    "config_flow": false,
+    "dependencies": [],
+    "documentation": "https://github.com/JesalR/kef_control",
+    "iot_class": "local_polling",
+    "requirements": [
+        "requests>=2.26.0",
+        "aiohttp>=3.7.4",
+        "pykefcontrol==0.5"
+    ],
+    "version": "1.0.0"
+}
